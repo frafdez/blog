@@ -11,7 +11,7 @@ comments: false
 
 ## PROFESSIONAL SUMMARY
 
-Technology leader with 15+ years in product strategy, management, and software engineering. Led teams to deliver market-driven solutions, increasing profits by 50% to $1M MRR in 4 months, and growing a product from 0 to $4.3M ARR in 2 years. Expert in AI/ML for product innovation. Strong communicator advising executives on technical risks. 
+Technology leader with 15+ years in product strategy, management, and software engineering. Led teams to deliver market-driven solutions, increasing profits by 100% to $1M MRR in 4 months, and growing a product from 0 to $4.3M ARR in 2 years. Expert in AI/ML for product innovation. Strong communicator advising executives on technical risks. 
 
 ## WORK EXPERIENCE
 
