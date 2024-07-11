@@ -124,3 +124,12 @@ exclude:
   - lighthouse.png
   - klise-*.gem
   - klise.gemspec
+
+
+jekyll_admin:
+  homepage: "posts"
+
+collections:
+  posts:
+    output: true
+    sidebar_label: News

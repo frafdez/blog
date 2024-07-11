@@ -1,17 +1,18 @@
 ---
-title: My CV / Résumé
-permalink: /cv/
+title: Frank Fernández - CV / Résumé
+permalink: "/cv/"
 layout: page
 excerpt: CV/Resume for Frank Fernández, Product Managenment and Engineering Executive
 comments: false
 ---
 
-# Frank Fernández
-[fdezmero@gmail.com](mailto:fdezmero@gmail.com) | +34 676 091 765 / (305) 741-5130 | [https://www.linkedin.com/in/frankfdez/](https://www.linkedin.com/in/frankfdez/)
+[fdezmero@gmail.com](mailto:fdezmero@gmail.com)  
++34 676 091 765 / (305) 741-5130  
+[https://www.linkedin.com/in/frankfdez/](https://www.linkedin.com/in/frankfdez/)
 
 ## PROFESSIONAL SUMMARY
 
-Technology leader with 15+ years in product strategy, management, and software engineering. Led teams to deliver market-driven solutions, increasing profits by 100% to $1M MRR in 4 months, and growing a product from 0 to $4.3M ARR in 2 years. Expert in AI/ML for product innovation. Strong communicator advising executives on technical risks. 
+Technology leader with 15+ years in digital product strategy, management, and financial technology innovation, specializing in creating intuitive, smart, and frictionless digital experiences. At TradeStation, led the overhaul of the flagship options trading app, achieving 100% year-over-year growth, contributing $1M in monthly revenue, and growing an app store’s annual recurring revenue from zero to $4.3M in 2 years. Directed modernization of the desktop platform UI, resulting in a 50% increase in user retention and reduced onboarding costs. Proven track record in driving market-driven solutions and leveraging AI/ML for product innovation. A transformative leader with strong communication skills, adept at advising executives on technical risks and strategic growth.
 
 ## WORK EXPERIENCE
 
@@ -19,7 +20,7 @@ Technology leader with 15+ years in product strategy, management, and software e
 
 *We Are Rival, London, UK*, *April 2023 - Present*
 
-- Oversaw digital products from inception to launch, managing them as business units with a focus on profitability, cost management, and loss considerations. 
+- Developed and executed a digital experience vision from inception to launch, focusing on profitability, customer acquisition, retention, and satisfaction; aligning with business objectives and market trends.
 - Led Curo's development from concept to a full analytics tool for brand tracking through search volume analysis, growing revenue from 0 to £27k within two months of release. 
 - Conducted market research and launched the MVP for Enodo, a paid media audit tool. Released Enodo into beta, allowing consultants to evaluate current paid media performance. 
 - Piloted Rival Analytics, offering MMM and MTA marketing attribution models as a service, enhancing data-driven marketing insights. 
@@ -29,7 +30,7 @@ Technology leader with 15+ years in product strategy, management, and software e
 
 *CoolAiid, Madrid, Spain*, *November 2022 - December 2023*
 
-- Identified a market need and founded CoolAiid, leveraging generative AI to offer innovative interior design solutions. Successfully bootstrapped the startup without external funding.
+- Founded CoolAiid, leveraging AI/ML to deliver innovative digital solutions for the interior design market, demonstrating expertise in user-centric product development and market-driven innovation.
 - Conducted market research, designed the UX, and built the core product, ensuring a seamless user experience.
 - Successfully launched the product, attracting initial users and receiving positive feedback for its innovative approach achieving 25% growth in subscriptions month over month, demonstrating strong market demand and user engagement.
 
@@ -50,16 +51,18 @@ Technology leader with 15+ years in product strategy, management, and software e
 - Modernized the desktop platform UI, resulting in cost reductions, increased competitiveness, over 50% user retention increase, and reduced onboarding and education expenses. 
 - Implemented a cloud-based AI/ML analytics solution for quants and FinTech products, resulting in a new product for passive traders. 
 - Partnered with the executive team on pricing and product positioning.
-- Coordinated with cross-functional teams for successful product launches.
+- Coordinated with cross-functional teams, including marketing, sales, compliance, quality assurance, engineering, education, brokerage business analysts, support, IT, and finance, for successful product launches.
 
 ### Senior Director - Product Innovation and Business Strategy (Product Management)
 
 *TradeStation, Plantation, FL, USA*, *April 2015 - April 2017*
 
-- Directed strategic and technical updates for trading platforms, including desktop, web, and mobile, with a focus on modernization and enhancing user experience. 	•	
+- Directed strategic and technical updates for trading platforms, including desktop, web, and mobile, with a focus on modernization and enhancing user experience.	
 - Established comprehensive product roadmaps and set milestones for platform updates, ensuring alignment with business goals and market demands. 
 - Defined and developed requirements for a cutting-edge cloud-based algorithmic trading platform, leveraging advanced technologies to enhance trading capabilities. 
 - Defined the structure and processes for the new innovation division in product management, ensuring continuous product improvement and market relevance. 
+- Partnered with the executive team on pricing and product positioning.
+- Coordinated with cross-functional teams, including marketing, sales, compliance, quality assurance, engineering, education, brokerage business analysts, support, IT, and finance, for successful product launches.
 
 
 ### Senior Director - Product Management and Business Lead (Developer Platforms)
@@ -78,6 +81,7 @@ Technology leader with 15+ years in product strategy, management, and software e
 *TradeStation, Plantation, FL, USA*, *Details available upon request*
 
 - Developed real-time financial market applications in C++ and C#.
+- Designed UI/UX for brokerage and analytics applications.
 - Managed and mentored Software Engineers and Quality Assurance personnel.
 
 ## SKILLS
