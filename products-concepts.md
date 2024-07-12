@@ -32,10 +32,10 @@ Interior design meets AI.
 ### ideastream
 What if you could harness the power of AI/ML for technical analysis of stocks and commodities? Here's a product that was created leveraging AI/ML to create simple cards for passive investors.
 
-<object data="/{{page.ideastream}}" width="100%" height="376" type="application/pdf"></object>
+<iframe src="https://drive.google.com/file/d/1aP_sU0UC5x3ouknV4fw0wWhyRvVIrEos/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 ### trading app store
-<object data="/{{page.trading-app-store}}" width="100%"  height="520" type="application/pdf"></object>
+<iframe src="https://drive.google.com/file/d/1DSabM8E79em-MRDc0ylymkVEGD2vVPIz/preview" width="100%" height="480" allow="autoplay"></iframe>
 ### optionstation pro
 <iframe width="100%" height="376" src="https://www.youtube.com/embed/tqvKNOWhcY4?si=yywgnKSWHhb_yiTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
