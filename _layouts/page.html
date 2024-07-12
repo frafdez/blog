@@ -40,4 +40,105 @@ layout: compress
   </div>
 </body>
 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+<style>
+  .carousel-container {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+  }
+
+  .carousel-slide {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .carousel-slide img {
+    width: 100%;
+    border: none;
+  }
+
+  .prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .prev {
+    left: 10px;
+  }
+
+  .next {
+    right: 10px;
+  }
+	
+	.click-img {
+		cursor: pointer;
+	}
+	
+</style>
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+
+    function initializeCarousel(carouselSlide) {
+
+      const images = carouselSlide.querySelectorAll("img");
+      const prevButton = carouselSlide.parentElement.querySelector(".prev");
+      const nextButton = carouselSlide.parentElement.querySelector(".next");
+  
+      let counter = 0;
+  
+      function updateCarousel() {
+        const size = carouselSlide.clientWidth;
+        carouselSlide.style.transform = "translateX(" + (-size * counter) + "px)";
+      }
+      
+      nextButton.addEventListener("click", () => {
+        if (counter >= images.length - 1) return;
+        counter++;
+        updateCarousel();
+      });
+  
+      prevButton.addEventListener("click", () => {
+        if (counter <= 0) return;
+        counter--;
+        updateCarousel();
+      });
+  
+      window.addEventListener("resize", () => {
+        carouselSlide.style.transition = "none";
+        updateCarousel();
+      });
+  
+      updateCarousel();
+    }
+
+    const allImages = document.querySelectorAll("img");
+
+    allImages.forEach(function(image) {
+      image.addEventListener("click", function() {
+        window.open(this.src, "_blank");
+      });
+    });
+
+    const carouselSlides = document.querySelectorAll(".carousel-slide");
+  
+    carouselSlides.forEach(function(carouselSlide) {
+      initializeCarousel(carouselSlide);
+    });
+
+  });
+
+</script>
+
+
 </html>
+
