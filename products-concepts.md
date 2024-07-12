@@ -9,6 +9,11 @@ tradestation-1: assets/img/products/ss-desktop-advanced-charts-1920x1080-1.jpg
 tradestation-2: assets/img/products/ss-desktop-advanced-ordering-1920x1080-1-2.jpg
 tradestation-3: assets/img/products/ss-desktop-radarscreen-1920x1080-1-2.jpg
 trading-app-store: assets/documents/1582969668910.pdf
+tradestation-4: assets/img/products/ss-web-trading-bracket-orders-1920x1080-1.jpg
+tradestation-5: assets/img/products/ss-web-trading-matrix-1920x1080-1.jpg
+tradestation-6: assets/img/products/ss-web-trading-options-chains-1920x1080-1.jpg
+tradestation-7: assets/img/products/gallery-mobile-slide-02-v3.png
+tradestation-8: assets/img/products/gallery-mobile-slide-01-v3-2-2.png
 ---
 
 Here you can explore the innovative designs and ideas I've brought to life or conceptualized. It is a curated collection of my work, focusing on UI/UX elements. Discover the essence of each project through images, PDFs, and videos, each providing insight into my creative process and execution.
@@ -26,26 +31,38 @@ Here you can explore the innovative designs and ideas I've brought to life or co
 Interior design meets AI.
 
 <iframe width="100%" height="376" src="https://www.youtube.com/embed/9rtYTprM9VE?si=tsq4Z6N_F1XC7JRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### beatspoken
 <iframe width="100%" height="376"  src="https://www.youtube.com/embed/DWyS6dq5QuM?si=z-KKoSwjnlNCvMxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### ideastream
 What if you could harness the power of AI/ML for technical analysis of stocks and commodities? Here's a product that was created leveraging AI/ML to create simple cards for passive investors.
 
 <iframe src="https://drive.google.com/file/d/1aP_sU0UC5x3ouknV4fw0wWhyRvVIrEos/preview" width="100%" height="480" allow="autoplay"></iframe>
-
 ### trading app store
 <iframe src="https://drive.google.com/file/d/1DSabM8E79em-MRDc0ylymkVEGD2vVPIz/preview" width="100%" height="480" allow="autoplay"></iframe>
 ### optionstation pro
-<iframe width="100%" height="376" src="https://www.youtube.com/embed/tqvKNOWhcY4?si=yywgnKSWHhb_yiTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Here's an instructional video that showcases the UI/UX changes that helped OptionStation Pro grow its revenue by 100% to $1M per month.
 
+<iframe width="100%" height="376" src="https://www.youtube.com/embed/tqvKNOWhcY4?si=yywgnKSWHhb_yiTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### tradestation
+I led the comprehensive redesign of the desktop, mobile, and web trading platforms to unify and modernize both the aesthetics and functionality. This project involved meticulous attention to detail, including menu item placement and naming conventions, to ensure a seamless and intuitive user experience across all devices.
+
 <div class="carousel-container">
   <div class="carousel-slide">
     <img src="/{{page.tradestation-1}}" alt="TradeStation 1" class="click-img">
     <img src="/{{page.tradestation-2}}" alt="TradeStation 2" class="click-img">
     <img src="/{{page.tradestation-3}}" alt="TradeStation 3" class="click-img">
+	  <img src="/{{page.tradestation-4}}" alt="TradeStation 4" class="click-img">
+    <img src="/{{page.tradestation-5}}" alt="TradeStation 5" class="click-img">
+    <img src="/{{page.tradestation-6}}" alt="TradeStation 6" class="click-img">	
+		<img src="/{{page.tradestation-7}}" alt="TradeStation 7" class="click-img">
+    <img src="/{{page.tradestation-8}}" alt="TradeStation 8" class="click-img">
   </div>
   <button class="prev"><i class="bi bi-chevron-left"></i></button>
   <button class="next"><i class="bi bi-chevron-right"></i></button>
 </div>
+### stackoverflow
+<iframe src="https://drive.google.com/file/d/1kwFLzUulNZxTHqZcC4JtD2JrNjSnNUYW/preview" width="100%" height="480" allow="autoplay"></iframe>
+### tuenti
+<iframe src="https://drive.google.com/file/d/1PkqcauBiypNKcPs5CFP6JYjvccjC7D5_/preview" width="100%" height="480" allow="autoplay"></iframe>
+### fon
+<iframe src="https://drive.google.com/file/d/1qvfDeVL2-T7rMpVTnZCrSGBxu_5V0nO2/preview" width="100%" height="480" allow="autoplay"></iframe>
