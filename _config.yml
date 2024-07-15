@@ -21,7 +21,7 @@
 title: Frank Fernández - Product & Engineering
 email: fdezmero@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and dreams.
+  Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and a little about me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://frankfdez.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: frank_fdez
@@ -35,7 +35,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Frank Fernández
   bio: >- # tell to the world
-    Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and dreams.
+    Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and a little about me.
   username: username # general username
   twitter: https://x.com/frank_fdez
   email: mailto:fdezmero@gmail.com
