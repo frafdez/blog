@@ -65,10 +65,12 @@ layout: compress
         </header>
 
         <div class="page-content" itemprop="articleBody">
+          <div class="float-content">
           {% if page.image %}
-          <img src="/{{ page.image }}" alt="{{ page.title }}">
+          <img src="/{{ page.image }}" alt="{{ page.title }}" class="float-image">
           {% endif %}
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
+          </div>
           {% if page.tweet %}
           <p>Comments this article on 
             <a href="https://twitter.com/{{site.twitter}}/status/{{page.tweet}}">Twitter</a>.

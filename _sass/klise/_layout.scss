@@ -459,3 +459,26 @@
       flex: 100%; /* Makes columns take full width */
   }
 }
+
+/* Styles for the floating image */
+.float-image {
+  width: 380px; /* Set the desired width of your image */
+  margin: 0 0 20px 20px; /* Adjust the margin as needed */
+  float: right; /* Float the image to the right */
+}
+
+/* Clearfix for the float-content to contain the floated image */
+.float-content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive design: When the screen size is small, place the image on top */
+@media screen and (max-width: 768px) {
+  .float-image {
+    float: none;
+    margin: 0 0 20px 0;
+    width: 100%; /* Adjust the width as needed for mobile view */
+  }
+}

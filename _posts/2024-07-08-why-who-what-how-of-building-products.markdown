@@ -1,9 +1,10 @@
 ---
+title: The Why, Who, What, and How of Building a Product
 layout: post
-title:  "The Why, Who, What, and How of Building a Product"
-date:   2024-07-08 15:00:00 +0100
-categories: product management
+date: '2024-07-08 15:00:00 +0100'
+image: assets/img/1719823899945.jpeg
 ---
+
 The Why, Who, What, and How of Building a Product
 
 Building a product is an expensive endeavor. It's not just about the money spent, but also the time invested. Before starting any product development, we need to ask ourselves the following Why, Who, What, and How questions to understand what we are committing to:
@@ -17,5 +18,3 @@ Building a product is an expensive endeavor. It's not just about the money spent
 7. How: How will we validate that our solution addresses the problem effectively?
 
 Don't continue to the next question until you can honestly answer the one you're on. Then, when you're done, have someone else act like an investor and have them ask you these questions. Try to convince them to invest in your idea. This part is critical because you'll either be pitching this idea to your manager, CEO, startup investors, or most importantly, your potential customers.
-
-![Design](/assets/img/1719823899945.jpeg)
