@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Frank's Blog
+title: Frank Fernández - Product & Engineering
 email: fdezmero@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and dreams.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.frankfdez.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frankfdez.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: frank_fdez
 github_username:  frafdez
 lang: en-US # default lang
