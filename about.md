@@ -61,7 +61,7 @@ comments: false
 
 *TradeStation, Plantation, FL, USA*, *April 2009 - April 2015*
 
-- Led the development and launch of the first multi-asset retail App Store for financial markets, managing full PandL responsibilities and overseeing a cross-functional team.. 
+- Led the development and launch of the first multi-asset retail App Store for financial markets, managing full P&L responsibilities and overseeing a cross-functional team.. 
 - Drove App Store revenue growth to $4.3M, with contributions from over 200 developers and 1,000 applications. 
 - Successfully pitched, secured funding, and launched a SaaS-based App Store in Japan, South Korea, and China. . 
 - Built and managed a thriving developer community, promoting hackathons and effectively onboarding external developers to expand platform capabilities. 
