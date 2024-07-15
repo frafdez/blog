@@ -14,6 +14,7 @@ tradestation-5: assets/img/products/ss-web-trading-matrix-1920x1080-1.jpg
 tradestation-6: assets/img/products/ss-web-trading-options-chains-1920x1080-1.jpg
 tradestation-7: assets/img/products/gallery-mobile-slide-02-v3.png
 tradestation-8: assets/img/products/gallery-mobile-slide-01-v3-2-2.png
+enodo: assets/img/products/enodo.png
 ---
 
 Here you can explore the innovative designs and ideas I've brought to life or conceptualized. It is a curated collection of my work, focusing on UI/UX elements. Discover the essence of each project through images, PDFs, and videos, each providing insight into my creative process and execution.
@@ -27,6 +28,9 @@ Here you can explore the innovative designs and ideas I've brought to life or co
   <button class="prev"><i class="bi bi-chevron-left"></i></button>
   <button class="next"><i class="bi bi-chevron-right"></i></button>
 </div>
+
+### enodo
+ <img src="/{{page.enodo}}" alt="Enodo" class="click-img">
 ### coolaiid
 Interior design meets AI.
 

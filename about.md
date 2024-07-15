@@ -1,24 +1,16 @@
 ---
-title: Frank Fernández - CV / Résumé
-permalink: "/cv/"
-layout: page
-excerpt: CV/Resume for Frank Fernández, Product Managenment and Engineering Executive
+title: About me
+permalink: "/about/"
+layout: two-column
+excerpt: Frank Fernández, Product Managenment and Engineering Executive
 comments: false
 ---
 
-[fdezmero@gmail.com](mailto:fdezmero@gmail.com)  
-+34 676 091 765 / (305) 741-5130  
-[https://www.linkedin.com/in/frankfdez/](https://www.linkedin.com/in/frankfdez/)
-
-## PROFESSIONAL SUMMARY
-
-Technology leader with 15+ years in digital product strategy, management, and financial technology innovation, specializing in creating intuitive, smart, and frictionless digital experiences. At TradeStation, led the overhaul of the flagship options trading app, achieving 100% year-over-year growth, contributing $1M in monthly revenue, and growing an app store’s annual recurring revenue from zero to $4.3M in 2 years. Directed modernization of the desktop platform UI, resulting in a 50% increase in user retention and reduced onboarding costs. Proven track record in driving market-driven solutions and leveraging AI/ML for product innovation. A transformative leader with strong communication skills, adept at advising executives on technical risks and strategic growth.
-
-## WORK EXPERIENCE
+**Here's what I've done...**
 
 ### Head of Product
 
-*We Are Rival, London, UK*, *April 2023 - Present*
+*We Are Rival, London, UK*, *2023 - Present*
 
 - Developed and executed a digital experience vision from inception to launch, focusing on profitability, customer acquisition, retention, and satisfaction; aligning with business objectives and market trends.
 - Led Curo's development from concept to a full analytics tool for brand tracking through search volume analysis, growing revenue from 0 to £27k within two months of release. 
@@ -28,7 +20,7 @@ Technology leader with 15+ years in digital product strategy, management, and fi
 
 ### Co-Founder and Product Lead
 
-*CoolAiid, Madrid, Spain*, *November 2022 - December 2023*
+*CoolAiid, Madrid, Spain*, *2022 - 2023*
 
 - Founded CoolAiid, leveraging AI/ML to deliver innovative digital solutions for the interior design market, demonstrating expertise in user-centric product development and market-driven innovation.
 - Conducted market research, designed the UX, and built the core product, ensuring a seamless user experience.
@@ -36,7 +28,7 @@ Technology leader with 15+ years in digital product strategy, management, and fi
 
 ### Founder and Product Lead
 
-*Beatspoken, Madrid, Spain*, *January 2019 - November 2022*
+*Beatspoken, Madrid, Spain*, *2019 - 2022*
 
 - Identified a market opportunity during the pandemic to create a startup for freelance musicians and video creators, successfully navigating challenges to establish a unique service. 
 - Leveraged a community of 14,000+ freelance musicians and video creators, facilitating collaborations and monetization. 
@@ -44,7 +36,7 @@ Technology leader with 15+ years in digital product strategy, management, and fi
 
 ### Vice President - Product Strategy and Innovation
 
-*TradeStation, Plantation, FL, USA*, *April 2017 - October 2018*
+*TradeStation, Plantation, FL, USA*, *2017 - 2018*
 
 - Directed product strategy and innovation across the entire suite of TradeStation's products, including desktop, web, mobile, proprietary applications, and developer tools. 
 - Overhauled the flagship options trading app, achieving 100% year-over-year growth and contributing $1M per month, representing 16% of the company's annual revenue. 
@@ -74,23 +66,4 @@ Technology leader with 15+ years in digital product strategy, management, and fi
 - Successfully pitched, secured funding, and launched a SaaS-based App Store in Japan, South Korea, and China. . 
 - Built and managed a thriving developer community, promoting hackathons and effectively onboarding external developers to expand platform capabilities. 
 - Oversaw Web API requirements and the implementation of the FIX standard to ensure robust and reliable data exchange. 
-- Mentored and managed Product Managers and Product Owners, fostering a collaborative and high-performing team environment. 
-
-### Earlier Career Roles
-
-*TradeStation, Plantation, FL, USA*, *Details available upon request*
-
-- Developed real-time financial market applications in C++ and C#.
-- Designed UI/UX for brokerage and analytics applications.
-- Managed and mentored Software Engineers and Quality Assurance personnel.
-
-## SKILLS
-
-**Technical Skills:** AWS, Google Cloud, BigQuery, Python, C++, C#, Ruby, Rails, .NET, MySQL, PostgreSQL, IaaS, PaaS, SaaS, AI, Machine Learning, Data Science, Web Development, Mobile Development, JSON, Git, Jira, Docker, CI/CD
-
-**Concepts:** Product Management, Product Development, Business Strategy, Competitive Analysis, Product Launch, UX/UI Design, Wireframing, Mockups, Cross-Functional Team Leadership, Agile, Kanban, Innovation, SDLC, Lean Startup, Algorithmic Trading, Finance, MarTech, Marketing Research, Project Management, Data Analytics, Data Visualization, Performance Metrics, A/B Testing, DevOps, CI/CD, Cloud Computing, Customer Insights, Customer Experience (CX), Market Analysis, Marketing Strategy, Revenue Growth, Business Development, Cost Reduction, Return on Investment (ROI), Leadership Development, Team Building, Change Management, Organizational Development
-
-## EDUCATION
-
-**Florida International University**  
-*Computer Science and Music Education*
+- Mentored and managed Product Managers and Product Owners, fostering a collaborative and high-performing team environment.

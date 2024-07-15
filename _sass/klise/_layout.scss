@@ -17,6 +17,23 @@
   -ms-user-select: none;
   -webkit-user-select: none;
 
+.navbar-title {
+  float: left;
+  display: flex;
+  justify-content: center; 
+
+  p {
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-left: 16px;
+  }
+}
+
+.navbar .menu {
+  display: flex;
+  justify-content: center; 
+}
+
   a#mode {
     float: left;
     left: 8px;
@@ -62,6 +79,7 @@
 
   .trigger {
     float: right;
+    margin-top: 6px;
   }
 
   .menu-trigger {
@@ -70,6 +88,8 @@
 
   .menu-icon {
     display: none;
+    padding: 0 0 0 0 !important;
+    margin-top: 12px;
   }
 
   .menu-link {
@@ -189,9 +209,41 @@
     margin-bottom: 3em;
   }
 
+  .author-button {
+    margin-top: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2em;
+    height: 2em;
+    font-size: 1.5rem;
+    color: #aaaaaa;
+    border: 2px solid #dddddd;
+    border-radius: 50%;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  .author-button:hover {
+    color: #777777;
+  }
+
   .author-avatar {
-    width: 70px;
-    height: 70px;
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    user-select: none;
+    background-color: $black;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -webkit-animation: 0.5s ease-in forwards fadein;
+    animation: 0.5s ease-in forwards fadein;
+    opacity: 1;
+  }
+
+  .author-avatar-lg {
+    width: 240px;
+    height: 240px;
     border-radius: 100%;
     user-select: none;
     background-color: $black;
@@ -213,6 +265,15 @@
     max-width: 393px;
     line-height: 1.688;
   }
+
+  .author-bio-ext {
+    margin-top: 0px;
+    margin-bottom: 8px;
+    opacity: 0.9;
+    line-height: 1.688;
+    text-align: left;
+  }
+
 }
 
 // Content
@@ -376,5 +437,25 @@
     border-radius: 2px;
     border: 1px solid rgba(128, 128, 128, 0.1);
     background-color: rgba(128, 128, 128, 0.1);
+  }
+}
+
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Adjusts space between columns */
+  align-items: stretch; /* Makes columns the same height */
+}
+
+.flex-column {
+  flex: 1; /* Makes columns take up equal space */
+  padding: 20px;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+  .flex-column  {
+      flex: 100%; /* Makes columns take full width */
   }
 }

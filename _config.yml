@@ -21,7 +21,7 @@
 title: Frank's Blog
 email: fdezmero@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Frank. I know a bit about creating world-class products and even developing them. Here are some of my thoughts and dreams.
+  Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and dreams.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.frankfdez.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: frank_fdez
@@ -29,18 +29,18 @@ github_username:  frafdez
 lang: en-US # default lang
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Frank Fernández
   bio: >- # tell to the world
-    Hi, I'm Frank. I know a bit about creating world-class products and even developing them. Here are some of my thoughts and dreams.
+    Hi, I'm Frank. I know a bit about creating world-class digital products and even developing them. Here are some of my thoughts and dreams.
   username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  twitter: https://x.com/frank_fdez
+  email: mailto:fdezmero@gmail.com
+  whatsapp: https://wa.me/34676091765
+  linkedin: https://www.linkedin.com/in/frankfdez/
   avatar: /assets/img/avatar.jpeg # change with your own avatar
 
 
