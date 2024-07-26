@@ -9,7 +9,7 @@ The Why, Who, What, and How of Building a Product
 
 Building a product is an expensive endeavor. It's not just about the money spent, but also the time invested. Before starting any product development, we need to ask ourselves the following Why, Who, What, and How questions to understand what we are committing to:
 
-1. Why: Why does this problem need solving?
+1. Why: [Why does this problem need solving?](/2024/07/26/why-does-this-problem-need-solving-the-why-who-what-and-how-of-building-a-product.html)
 2. Who: Who is our target audience?
 3. How (Large): How large is our target audience/market, and how much of it can we capture?
 4. What: What unique value does our solution offer?
