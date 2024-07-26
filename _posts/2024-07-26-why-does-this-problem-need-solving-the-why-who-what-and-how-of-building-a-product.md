@@ -4,7 +4,7 @@ title: Why does this problem need solving - The Why, Who, What, and How of Build
 ---
 
 # 1. Why does this problem need solving? 
-Let's dive into the [WWWH](/2024/07/08/why-who-what-how-of-building-products.html) of building a product...
+Let's dive into the the first point of the [Why, Who, What, and How of Building a Product](/2024/07/08/why-who-what-how-of-building-products.html)...
 
 We often assume our problems are universal and jump into building a product without fully understanding why the problem needs solving. The "why" is the most critical question to ask yourself, even more so than the "what". If you can't answer this first question, it isn't worth building the product.
 Consider a hypothetical example for a product like Notion:
