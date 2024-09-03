@@ -12,7 +12,7 @@ Building a product is an expensive endeavor. It's not just about the money spent
 1. Why: [Why does this problem need solving?](/2024/07/26/why-does-this-problem-need-solving-the-why-who-what-and-how-of-building-a-product.html)
 2. Who: [Who is our target audience?](/2024/08/06/who-is-our-target-audience-the-why-who-what-and-how-of-building-a-product.html)
 3. How (Large): [How large is our target audience/market, and how much of it can we capture?](/2024/08/14/how-large-is-our-target-audience-market-and-how-much-of-it-can-we-capture-the-why-who-what-and-how-of-building-a-product.html)
-4. What: What unique value does our solution offer?
+4. What: [What unique value does our solution offer?](/2024/08/21/what-unique-value-does-our-solution-offer-the-why-who-what-and-how-of-building-a-product.html)
 5. What: What data or research supports our idea?
 6. How: How do we plan to monetize or derive value from our solution?
 7. How: How will we validate that our solution addresses the problem effectively?
