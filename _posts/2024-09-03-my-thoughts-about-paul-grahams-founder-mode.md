@@ -12,4 +12,4 @@ And "everything you can" varies from founder to founder.
 
 I don't think this is something that can be rigidly taught. It's something that arises out of necessity and is deeply personal. And at times, it could be very controversial.
 
-Here's a link to Paul's article: https://paulgraham.com/foundermode.html
+Here's a link to Paul's article: [https://paulgraham.com/foundermode.html](https://paulgraham.com/foundermode.html)
