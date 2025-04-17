@@ -2,6 +2,10 @@
 title: Products & Concepts
 permalink: "/concepts/"
 ideastream: assets/documents/1583579906946.pdf
+chatterkb-1: assets/img/products/ckb-card-1-1.png
+chatterkb-2: assets/img/products/ph-slide-1.png
+chatterkb-3: assets/img/products/ph-slide-2-5.png
+chatterkb-4: assets/img/products/ph-slide-2.png
 curo-1: assets/img/products/curo-1.png
 curo-2: assets/img/products/curo-2.png
 curo-3: assets/img/products/curo-3.png
@@ -19,6 +23,21 @@ enodo: assets/img/products/enodo.png
 ---
 
 Here are some of the innovative designs and ideas I've brought to life or conceptualized. This is a curated collection of my work, focusing on UI/UX elements.
+
+### ChatterKB
+[ChatterKB](https://chatterkb.com){:target="_blank"} is a RAG-as-a-service platform designed for SMBs and marketers. It centralizes scattered knowledge from files, Slack, and other tools into a single, searchable, chat-based interface. Users can ask questions, get citations, visualize insights, and build workflows powered by natural language. It supports document-specific insights, public widgets, and automated task flows, all tuned for real-world business use.
+
+<div class="carousel-container">
+  <div class="carousel-slide">
+    <img src="/{{page.chatterkb-1}}" alt="ChatterKB Interface" class="click-img">
+    <img src="/{{page.chatterkb-2}}" alt="ChatterKB Features" class="click-img">
+    <img src="/{{page.chatterkb-3}}" alt="ChatterKB Dashboard" class="click-img">
+    <img src="/{{page.chatterkb-4}}" alt="ChatterKB Dashboard" class="click-img">
+  </div>
+  <button class="prev"><i class="bi bi-chevron-left"></i></button>
+  <button class="next"><i class="bi bi-chevron-right"></i></button>
+</div>
+
 ### Rival Curo
 By using [Share of Search](https://ipa.co.uk/news/share-of-search){:target="_blank"}   as a proxy for revenue growth, Curo enabled CMOs to track brand awareness and share across custom categories. Curo also provided insights into what was driving the growth in search by using AI to identify the high-level themes common across the category.
 

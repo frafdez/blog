@@ -53,10 +53,16 @@ layout: compress
   .carousel-slide {
     display: flex;
     transition: transform 0.5s ease-in-out;
+    height: 500px;
+    align-items: center;
   }
 
   .carousel-slide img {
-    width: 100%;
+    min-width: 100%;
+    flex: 0 0 100%;
+    height: auto;
+    object-fit: contain;
+    max-height: 500px;
     border: none;
   }
 
@@ -69,6 +75,13 @@ layout: compress
     border: none;
     padding: 10px;
     cursor: pointer;
+    z-index: 10;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .prev {
@@ -97,8 +110,7 @@ layout: compress
       let counter = 0;
   
       function updateCarousel() {
-        const size = carouselSlide.clientWidth;
-        carouselSlide.style.transform = "translateX(" + (-size * counter) + "px)";
+        carouselSlide.style.transform = "translateX(" + (-100 * counter) + "%)";
       }
       
       nextButton.addEventListener("click", () => {
@@ -116,6 +128,9 @@ layout: compress
       window.addEventListener("resize", () => {
         carouselSlide.style.transition = "none";
         updateCarousel();
+        setTimeout(() => {
+          carouselSlide.style.transition = "transform 0.5s ease-in-out";
+        }, 50);
       });
   
       updateCarousel();
