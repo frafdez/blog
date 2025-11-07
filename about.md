@@ -8,9 +8,16 @@ comments: false
 
 **Here's what I've done...**
 
+### Founder and Product Lead
+*ChatterKB, Madrid, Spain, 2024 - Present*
+
+- Built a RAG-as-a-service turning files, chats, and memory into searchable knowledge and automated workflows.
+- Designed a graph-backed memory system and natural-language workflows with validation and rollups for reliable automation and opinion recall.
+
+
 ### Head of Product
 
-*We Are Rival, London, UK*, *2023 - Present*
+*We Are Rival, London, UK*, *2023 - 2024*
 
 - Developed and executed a digital experience vision from inception to launch, focusing on profitability, customer acquisition, retention, and satisfaction; aligning with business objectives and market trends.
 - Led Curo's development from concept to a full analytics tool for brand tracking through search volume analysis, growing revenue from 0 to £27k within two months of release. 

@@ -25,18 +25,9 @@ enodo: assets/img/products/enodo.png
 Here are some of the innovative designs and ideas I've brought to life or conceptualized. This is a curated collection of my work, focusing on UI/UX elements.
 
 ### ChatterKB
-[ChatterKB](https://chatterkb.com){:target="_blank"} is a RAG-as-a-service platform designed for SMBs and marketers. It centralizes scattered knowledge from files, Slack, and other tools into a single, searchable, chat-based interface. Users can ask questions, get citations, visualize insights, and build workflows powered by natural language. It supports document-specific insights, public widgets, and automated task flows, all tuned for real-world business use.
+[ChatterKB](https://chatterkb.com){:target="_blank"} helps teams turn everything they know into something they can use. Each knowledge base combines files, data, and the memories of the people who use it, including what they said, decided, and learned in past chats. You can ask questions like “What does Jill think of our latest ads?” and get a real answer pulled from her past work, not a guess. It gives smaller teams the kind of connected intelligence large organizations build with tools like Palantir, but without the complexity or cost. Teams can turn those insights into workflows in plain English or pin reports that refresh automatically when new data or memories are added. It’s the missing layer between team knowledge and team action.
 
-<div class="carousel-container">
-  <div class="carousel-slide">
-    <img src="/{{page.chatterkb-1}}" alt="ChatterKB Interface" class="click-img">
-    <img src="/{{page.chatterkb-2}}" alt="ChatterKB Features" class="click-img">
-    <img src="/{{page.chatterkb-3}}" alt="ChatterKB Dashboard" class="click-img">
-    <img src="/{{page.chatterkb-4}}" alt="ChatterKB Dashboard" class="click-img">
-  </div>
-  <button class="prev"><i class="bi bi-chevron-left"></i></button>
-  <button class="next"><i class="bi bi-chevron-right"></i></button>
-</div>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/hi3UC_CUvOY?si=gyiqQODO7zcJumrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Rival Curo
 By using [Share of Search](https://ipa.co.uk/news/share-of-search){:target="_blank"}   as a proxy for revenue growth, Curo enabled CMOs to track brand awareness and share across custom categories. Curo also provided insights into what was driving the growth in search by using AI to identify the high-level themes common across the category.
@@ -58,22 +49,22 @@ An elegant paid media audit tool that distills years of knowledge into four meas
 ### CoolAiid
 A service that allows you to design your own rooms and spaces using AI, eliminating the need to hire a designer.
 
-<iframe width="100%" height="376" src="https://www.youtube.com/embed/9rtYTprM9VE?si=tsq4Z6N_F1XC7JRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/9rtYTprM9VE?si=tsq4Z6N_F1XC7JRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Beatspoken
 A custom music service that allows composers to compete in writing music for videos from influencers.
 
-<iframe width="100%" height="376"  src="https://www.youtube.com/embed/DWyS6dq5QuM?si=z-KKoSwjnlNCvMxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600"  src="https://www.youtube.com/embed/DWyS6dq5QuM?si=z-KKoSwjnlNCvMxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Ideastream
 What if you could harness the power of AI/ML for technical analysis of stocks and commodities? Here's a product that was created leveraging AI/ML to create simple cards for passive investors.
 
-<iframe src="https://drive.google.com/file/d/1aP_sU0UC5x3ouknV4fw0wWhyRvVIrEos/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1aP_sU0UC5x3ouknV4fw0wWhyRvVIrEos/preview" width="100%" height="600" allow="autoplay"></iframe>
 ### Trading App Store
 The  first multi-asset retail App Store for financial markets.
-<iframe src="https://drive.google.com/file/d/1DSabM8E79em-MRDc0ylymkVEGD2vVPIz/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1DSabM8E79em-MRDc0ylymkVEGD2vVPIz/preview" width="100%" height="600" allow="autoplay"></iframe>
 ### OptionStation Pro
 Here's an instructional video that showcases the UI/UX changes that helped OptionStation Pro grow its revenue by 100% to $1M per month.
 
-<iframe width="100%" height="376" src="https://www.youtube.com/embed/tqvKNOWhcY4?si=yywgnKSWHhb_yiTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/tqvKNOWhcY4?si=yywgnKSWHhb_yiTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### TradeStation
 I led the comprehensive redesign of the desktop, mobile, and web trading platforms to unify and modernize both the aesthetics and functionality. This project involved meticulous attention to detail, including menu item placement and naming conventions, to ensure a seamless and intuitive user experience across all devices.
 
@@ -92,8 +83,8 @@ I led the comprehensive redesign of the desktop, mobile, and web trading platfor
   <button class="next"><i class="bi bi-chevron-right"></i></button>
 </div>
 ### stackoverflow
-<iframe src="https://drive.google.com/file/d/1kwFLzUulNZxTHqZcC4JtD2JrNjSnNUYW/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1kwFLzUulNZxTHqZcC4JtD2JrNjSnNUYW/preview" width="100%" height="600" allow="autoplay"></iframe>
 ### tuenti
-<iframe src="https://drive.google.com/file/d/1PkqcauBiypNKcPs5CFP6JYjvccjC7D5_/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1PkqcauBiypNKcPs5CFP6JYjvccjC7D5_/preview" width="100%" height="600" allow="autoplay"></iframe>
 ### fon
-<iframe src="https://drive.google.com/file/d/1qvfDeVL2-T7rMpVTnZCrSGBxu_5V0nO2/preview" width="100%" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1qvfDeVL2-T7rMpVTnZCrSGBxu_5V0nO2/preview" width="100%" height="600" allow="autoplay"></iframe>
